@@ -65,4 +65,4 @@ group :development do
 end
 
 
-gem "device", "~> 0.0.0"
+gem 'devise', '~> 4.9', '>= 4.9.2'
