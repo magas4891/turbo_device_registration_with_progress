@@ -42,6 +42,7 @@
 # lock files
 /Gemfile.lock
 /yarn.lock
+package-lock.json
 
 # env variables
 .env
